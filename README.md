@@ -45,7 +45,7 @@ python visualization.py
 ```
 You should get the following figure:
 
-![failed to load](election.png "Election Plot")
+![failed to load](election.PNG "Election Plot")
 
 #### 4. Rental Price Prediction
 Locate `mil_benchamark` folder and run:
