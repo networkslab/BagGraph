@@ -43,7 +43,7 @@ After the runs have completed you can get the figure from the paper by running:
 ```sh
 python visualization.py
 ```
-You should get the following figure:
+You should get the following figure (top 2 methods are baselines, bottom left is ours, bottom right is ground truth):
 
 ![failed to load](election.PNG "Election Plot")
 
