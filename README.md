@@ -5,6 +5,8 @@
 This repository contains the code to replicate the results reported in our AAAI 2022 submission: *Bag Graph:
 Multiple Instance Learning using Bayesian Graph Neural Networks*. 
 
+Contributors: Antonios Valkanas & Soumyasundar Pal (first authors), Florence Regol, Mark Coates (Prof. Mcgill University)
+
 When the datasets are small enough we include them in the repository, otherwise we point to the original source where they can be downloaded. We provide all pre-processing code and the plotting code for the diagrams in the paper.
 
 ## Getting Started
