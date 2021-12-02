@@ -6,7 +6,7 @@ This repository contains the code to replicate the results reported in our AAAI 
 Multiple Instance Learning using Bayesian Graph Neural Networks*. 
 
 ## Contributors: 
-Antonios Valkanas & Soumyasundar Pal (equal first authors), Florence Regol, Mark Coates (Prof. Mcgill University)
+Antonios Valkanas & Soumyasundar Pal (equal first authors), Florence Regol, Mark Coates (Prof. McGill University)
 
 
 ## Getting Started
