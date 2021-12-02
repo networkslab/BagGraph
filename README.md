@@ -8,7 +8,6 @@ Multiple Instance Learning using Bayesian Graph Neural Networks*.
 ## Contributors: 
 Antonios Valkanas & Soumyasundar Pal (equal first authors), Florence Regol, Mark Coates (Prof. Mcgill University)
 
-When the datasets are small enough we include them in the repository, otherwise we point to the original source where they can be downloaded. We provide all pre-processing code and the plotting code for the diagrams in the paper.
 
 ## Getting Started
 
@@ -17,6 +16,8 @@ Install the dependencies from the command line with `pip`:
 ```sh
 pip install -r requirements.txt --progress-bar off
 ```
+
+Note: When the datasets are small enough we include them in the repository, otherwise we point to the original source where they can be downloaded. We provide all pre-processing code and the plotting code for the diagrams in the paper.
 
 ## Training
 All our experiments occupy separate folders. To run a specific experiment go to the appropriate directory and follow the instructions below. Unless otherwise specified, the datasets are included in the experiment subfolders.
