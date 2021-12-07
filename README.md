@@ -52,7 +52,7 @@ You should get the following figure (top 2 methods are baselines, bottom left is
 ![failed to load](election.PNG "Election Plot")
 
 #### 4. Rental Price Prediction
-Locate `mil_benchamark` folder and run:
+Locate `mil_rental_data` folder and run:
 ```sh
 python deepset_main.py              # runs DeepSet backbone trials
 python set_transformer_main.py      # runs Set Transformer backbone trials
