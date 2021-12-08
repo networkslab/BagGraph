@@ -70,5 +70,5 @@ title = {Bag graph: {M}ultiple instance learning using {B}ayesian graph neural n
 booktitle={Proc. AAAI Conf. Artificial Intell.}, 
 month = {Feb.},
 year = {2022},
-address = {Vancouver, Canada}
+address = {Online Conference}
 }
