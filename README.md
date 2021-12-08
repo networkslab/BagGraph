@@ -52,10 +52,23 @@ You should get the following figure (top 2 methods are baselines, bottom left is
 ![failed to load](election.PNG "Election Plot")
 
 #### 4. Rental Price Prediction
-Locate `mil_benchamark` folder and run:
+Locate `mil_rental_data` folder and run:
 ```sh
 python deepset_main.py              # runs DeepSet backbone trials
 python set_transformer_main.py      # runs Set Transformer backbone trials
 python evaluate.py                  # statistical significance tests
 ```
 
+## Cite
+
+Please cite our paper if you use this code in your own work:
+
+```
+@inproceedings{pal_valkanas2022, 
+author={S. Pal and A. Valkanas and F. Regol and M. Coates}, 
+title = {Bag graph: {M}ultiple instance learning using {B}ayesian graph neural networks},
+booktitle={Proc. AAAI Conf. Artificial Intell.}, 
+month = {Feb.},
+year = {2022},
+address = {Vancouver, Canada}
+}
